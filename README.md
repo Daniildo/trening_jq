@@ -1,4 +1,4 @@
-# Трентровка JQ
+# Трентровка JQ 1
 
 A lightweight foundation for your next webpack based frontend project.
 
