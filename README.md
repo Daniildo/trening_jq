@@ -1,4 +1,4 @@
-# Webpack Frontend Starterkit
+# Трентровка JQ
 
 A lightweight foundation for your next webpack based frontend project.
 
@@ -7,7 +7,7 @@ A lightweight foundation for your next webpack based frontend project.
 ```sh
 npm install
 ```
-
+[jquery-mousewheel](jquery-mousewheel)
 ### Start Dev Server
 
 ```sh
