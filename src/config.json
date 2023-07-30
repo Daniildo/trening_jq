@@ -1,0 +1,34 @@
+{
+  "sitename" : "Мой сайт",
+  "menu" : [
+    {
+      "title": "Темы",
+      "href": "http://google.com"
+    },
+    {
+      "title": "Блоги",
+      "href": "http://yandex.com"
+    },
+    {
+      "title": "Вопросы",
+      "href": "http://google.com"
+    }
+  ],
+  "recommendMenu" : [
+    {
+    "picture" : "/images/3.jpg",
+      "title" : "жизнь бьет куда не ожидаешь",
+      "link" : "http://youtube.com"
+    },
+    {
+      "picture" : "/images/4.jpg",
+      "title" : "волосатая залупа или странный страус?",
+      "link" : "http://youtube.com"
+    },
+    {
+      "picture" : "/images/5.jpg",
+      "title" : "умеют ли белки колдовать?",
+      "link" : "http://youtube.com"
+    }
+  ]
+}
